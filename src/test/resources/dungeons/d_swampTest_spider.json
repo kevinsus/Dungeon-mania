@@ -1,0 +1,52 @@
+{
+    "entities": [
+        {
+            "type": "player",
+            "x": 4,
+            "y": 5
+        },
+        {
+            "type": "spider",
+            "x": 2,
+            "y": 5
+        },
+        {
+            "type": "swamp_tile",
+            "x": 2,
+            "y": 5
+        },
+        {
+            "type": "boulder",
+            "x": 1,
+            "y": 4
+        },
+        {
+            "type": "boulder",
+            "x": 0,
+            "y": 5
+        },
+        {
+            "type": "boulder",
+            "x": 1,
+            "y": 6
+        },
+        {
+            "type": "boulder",
+            "x": 2,
+            "y": 4
+        },
+        {
+            "type": "boulder",
+            "x": 2,
+            "y": 6
+        },
+        {
+            "type": "exit",
+            "x": 0,
+            "y": 0
+        }
+    ],
+    "goal-condition": {
+        "goal": "exit"
+    }
+}
